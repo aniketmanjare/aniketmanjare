@@ -9,7 +9,7 @@
 *4.8年 MEP、火灾警报、ICT、安全系统自动化工具开发经验*  
 *现任职于 Dar Al-Handasah — 全球顶级工程咨询公司*
 
-[![LinkedIn](https://img.shields.io/badge/在LinkedIn上连接-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/在LinkedIn上连接-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmanjare)
 [![邮件](https://img.shields.io/badge/联系我-aniketmanjare96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketmanjare96@gmail.com)
 [![位置](https://img.shields.io/badge/位置-印度_普纳-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
