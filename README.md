@@ -11,7 +11,7 @@
 *4.8 years building automation tools for MEP, Fire Alarm, ICT & Security systems*  
 *Currently @ Dar Al-Handasah — one of the world's top engineering consultancies*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmanjare)
 [![Email](https://img.shields.io/badge/Hire_Me-aniketmanjare96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketmanjare96@gmail.com)
 [![Location](https://img.shields.io/badge/Based_in-Pune,_India-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
