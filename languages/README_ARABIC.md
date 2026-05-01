@@ -9,7 +9,7 @@
 *4.8 سنوات في تطوير أدوات أتمتة MEP وأنظمة الحريق والاتصالات والأمان*  
 *يعمل حالياً بـ Dar Al-Handasah — إحدى أفضل شركات الاستشارات الهندسية في العالم*
 
-[![LinkedIn](https://img.shields.io/badge/تابعني_على_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/تابعني_على_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmanjare)
 [![البريد](https://img.shields.io/badge/تواصل_معي-aniketmanjare96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketmanjare96@gmail.com)
 [![الموقع](https://img.shields.io/badge/الموقع-بون_الهند-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
