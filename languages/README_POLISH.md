@@ -9,7 +9,7 @@
 *4.8 lat doświadczenia w tworzeniu narzędzi automatyzacji MEP, systemów pożarowych, ICT i bezpieczeństwa*  
 *Obecnie w Dar Al-Handasah — wiodąca firma konsultingowa inżynierska na świecie*
 
-[![LinkedIn](https://img.shields.io/badge/Połącz_się_na_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/Połącz_się_na_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmanjare)
 [![Email](https://img.shields.io/badge/Skontaktuj_się-aniketmanjare96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketmanjare96@gmail.com)
 [![Lokalizacja](https://img.shields.io/badge/Lokalizacja-Pune_Indie-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
