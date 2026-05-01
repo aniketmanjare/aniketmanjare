@@ -9,7 +9,7 @@
 *MEP, 화재경보, ICT, 보안 시스템 자동화 도구 개발 4.8년 경력*  
 *현재 Dar Al-Handasah 근무 — 세계 최고 수준의 엔지니어링 컨설팅사*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_연결-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_연결-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmanjare)
 [![이메일](https://img.shields.io/badge/연락처-aniketmanjare96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketmanjare96@gmail.com)
 [![위치](https://img.shields.io/badge/위치-인도_푼네-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
