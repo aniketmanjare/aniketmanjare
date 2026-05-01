@@ -5,12 +5,12 @@
 ## 🌍 Languages
 
 [🇬🇧 English](./README.md) · 
-[🇰🇷 한국어](./languages/README_ko.md) · 
-[🇸🇦 العربية](./languages/README_ar.md) · 
-[🇯🇵 日本語](./languages/README_ja.md) · 
-[🇨🇳 中文](./languages/README_zh.md) · 
-[🇵🇱 Polski](./languages/README_pl.md) · 
-[🇳🇱 Nederlands](./languages/README_nl.md)
+[🇰🇷 한국어](./languages/README_KOREAN.md) · 
+[🇸🇦 العربية](./languages/README_ARABIC.md) · 
+[🇯🇵 日本語](./languages/README_JAPANESE.md) · 
+[🇨🇳 中文](./languages/README_CHINESE.md) · 
+[🇵🇱 Polski](./languages/README_POLISH.md) · 
+[🇳🇱 Nederlands](./languages/README_DUTCH.md)
 
 # Aniket Manjare
 **Computational Design Engineer · Revit API · Dynamo · BIM Automation**
