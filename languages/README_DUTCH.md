@@ -9,7 +9,7 @@
 *4.8 jaar ervaring in het ontwikkelen van MEP, brandmeld-, ICT- en beveiligingssysteem automatiseringstools*  
 *Momenteel werkzaam bij Dar Al-Handasah — toonaangevend ingenieursadviesbureau wereldwijd*
 
-[![LinkedIn](https://img.shields.io/badge/Verbind_op_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/Verbind_op_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketmanjare)
 [![Email](https://img.shields.io/badge/Neem_contact_op-aniketmanjare96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketmanjare96@gmail.com)
 [![Locatie](https://img.shields.io/badge/Locatie-Pune_India-28a745?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
